@@ -9,13 +9,13 @@ Nesta atividade, foi realizada uma pesquisa sobre **tipografia, cores, contraste
 
 ---
 
-## 🟢 Site Bom — Duolingo
+## Site Bom — Duolingo
 
 **Site:** Duolingo
 
 O **Duolingo** é um bom exemplo de site que utiliza bem as cores, a tipografia e a organização dos elementos.
 
-### ✅ Pontos positivos
+###  Pontos positivos
 
 * Utiliza cores chamativas e bem definidas, facilitando a identificação dos elementos.
 * Possui uma boa organização das informações.
@@ -30,13 +30,13 @@ O Duolingo consegue apresentar bastante informação sem deixar a página visual
 
 ---
 
-## 🔴 Site Ruim — Alistamento Militar Online
+##  Site Ruim — Alistamento Militar Online
 
 **Site:** Alistamento Militar Online
 
 O site de **Alistamento Militar Online** apresenta alguns problemas relacionados à organização visual, contraste e experiência do usuário.
 
-### ❌ Pontos negativos
+###  Pontos negativos
 
 * Algumas informações podem parecer pouco organizadas.
 * A hierarquia entre títulos, textos e outros elementos poderia ser mais clara.
@@ -67,3 +67,7 @@ O site poderia melhorar sua aparência utilizando uma **hierarquia visual mais c
 ##  Conclusão
 
 A comparação mostrou como **tipografia, cores, contraste e organização** influenciam diretamente na experiência de quem utiliza um site. O Duolingo apresenta uma interface mais organizada e fácil de entender, enquanto o Alistamento Militar Online possui pontos que poderiam ser melhorados para facilitar a navegação. Com pequenas mudanças na organização, nas cores, nos textos e nos elementos da página, é possível tornar um site muito mais agradável e fácil de utilizar.
+
+---
+
+densenvolvido no SENAI - Escola "A. Jacob Lafer" | Curso Técnico em Desenvolvimento de Sistemas
