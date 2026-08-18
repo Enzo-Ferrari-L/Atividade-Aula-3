@@ -24,7 +24,7 @@ O **Duolingo** é um bom exemplo de site que utiliza bem as cores, a tipografia 
 * A interface é visualmente agradável e combina com a proposta educativa do site.
 * Existe uma boa hierarquia visual, fazendo com que as informações mais importantes tenham maior destaque.
 
-### 💡 Por que consideramos um bom site?
+### Por que consideramos um bom site?
 
 O Duolingo consegue apresentar bastante informação sem deixar a página visualmente confusa. As cores e os elementos gráficos ajudam o usuário a entender rapidamente o que deve fazer.
 
