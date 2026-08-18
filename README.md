@@ -53,7 +53,7 @@ O site poderia melhorar sua aparência utilizando uma **hierarquia visual mais c
 
 ## ⚖️ Comparação
 
-| Característica         | Duolingo 🟢         | Alistamento Militar Online 🔴          |
+| Característica         | Duolingo            | Alistamento Militar Online             |
 | ---------------------- | ------------------- | -------------------------------------- |
 | Cores                  | Bem utilizadas      | Poderiam ser melhor organizadas        |
 | Tipografia             | Fácil de ler        | Pode apresentar menor destaque         |
